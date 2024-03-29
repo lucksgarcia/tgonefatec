@@ -1,2 +1,10 @@
+
+# TGoneFatec | Trabalho de Graduação ADS FATEC zona sul - Fase 1
+
+Este repositório destina-se a toda documentação e elaboração de código fonte para meu trabalho de graduação no curso de [Análise e Desenvolvimento de Sistemas](https://fateczonasul.edu.br/) . este para a fase "one" do trabalho e outro #tgtwofatec destinado a fase "two".
+
+## 📚 Documentação
+- Formulário de Proposta de Trabalho 
+
 # tgonefatec
-Destina-se a fase 1, de todo trabalho de graduação da FATEC no curso de análise e desenvolvimento de sistemas - It is intended for phase 1 of FATEC's graduation work in the systems analysis and development course
+It's intended for phase 1 of FATEC's graduation work in the systems analysis and development course
