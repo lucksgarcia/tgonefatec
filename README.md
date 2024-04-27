@@ -17,7 +17,7 @@
 
 ---
 ## 📚 Documentação
-- Formulário de Proposta de Trabalho 
+- [x] Formulário de Proposta de Trabalho [aqui](Docs/proposta_tgi_assinada.png)
 
 # tgonefatec
 It's intended for phase 1 of FATEC's graduation work in the systems analysis and development course
@@ -28,7 +28,7 @@ It's intended for phase 1 of FATEC's graduation work in the systems analysis and
 ## Descrição do Projeto
 
 <p align="center">
-    <img width="100" src="imagens/inicial_icon.jpg">
+    <img width="150" src="imagens/inicial_icon.jpg">
 </p>
 
 
