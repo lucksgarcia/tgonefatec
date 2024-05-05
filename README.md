@@ -28,7 +28,7 @@ It's intended for phase 1 of FATEC's graduation work in the systems analysis and
 ## Descrição do Projeto
 
 <p align="center">
-    <img width="150" src="imagens/inicial_icon.jpg">
+    <img width="150" src="imagens/jaicon.png">
 </p>
 
 
