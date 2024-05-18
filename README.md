@@ -18,6 +18,7 @@
 ---
 ## 📚 Documentação
 - [x] Formulário de Proposta de Trabalho [aqui](Docs/proposta_tgi_assinada.png)
+- [x] Desenvolvimento de todo o descritivo do projeto na ferramenta on-line [DreamShaper](https://cps2021.dreamshaper.com/overview/)
 
 # tgonefatec
 It's intended for phase 1 of FATEC's graduation work in the systems analysis and development course
@@ -28,7 +29,7 @@ It's intended for phase 1 of FATEC's graduation work in the systems analysis and
 ## Descrição do Projeto
 
 <p align="center">
-    <img width="150" src="imagens/jaicon.png">
+    <img width="150" src="imagens/ja_gastei_icon.png">
 </p>
 
 
