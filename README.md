@@ -29,12 +29,19 @@ It's intended for phase 1 of FATEC's graduation work in the systems analysis and
 ## Descrição do Projeto
 
 <p align="center">
-    <img width="150" src="imagens/ja_gastei_icon.png">
+    <img width="150" src="imagens/logo_jagastei.png">
 </p>
 
 
 
 Projeto de um Aplicativo de finança pessoal que visa a possibilidade de visualizar e controlar em um único aplicativo, todos os gastos efetivados por cartão de crédito do usuário cadastrado, independentemente da quantidade de cartões que ele tenha, os gastos serão cadastrados via captura fotográfica do comprovante de compra e escaneamento do mesmo no OCR do aplicativo.
+
+## Ferramentas & Inspiração
+
+
+- Inspiração de Frames (https://freebieflux.com/)
+- Criação de protótipos dinâmicos (https://figma.com/)
+
 
 
 ### Business 
